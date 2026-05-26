@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "u86cd",
+    "Name": "SillyToolbox",
+    "InternalName": "SillyToolbox",
+    "AssemblyVersion": "0.0.1",
+    "Description": "傻肥工具箱, 包含一些給自己和親友用的小功能",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "tools"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/SillyToolbox_icon.png",
+    "Punchline": "傻肥工具箱",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/latest.zip",
+    "DownloadCount": 1919810,
+    "LastUpdate": 1779821749,
+    "Changelog": "初始化repo"
+  }
+]
