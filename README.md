@@ -10,4 +10,4 @@ https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/pluginmaster.json
 ## 倉庫插件列表
 |名稱|作者|遊戲版本|描述|備註|
 |----------|----------|----------|----------|----------|
-|Silly Toolbox|[u86cd](https://github.com/u86cd)|7.5|給自己和親友用的小工具箱|\|
+|Silly Toolbox|[u86cd](https://github.com/u86cd)|7.51|給自己和親友用的小工具箱|\|
