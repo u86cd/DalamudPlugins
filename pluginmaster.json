@@ -3,7 +3,7 @@
     "Author": "u86cd(粉色母肥)",
     "Name": "Silly Toolbox",
     "InternalName": "SillyToolbox",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "傻肥工具箱, 包含一些给自己和亲友用的小功能\n如果有什么想要的功能请直接联系我, 我会尽力加入工具箱",
     "ApplicableVersion": "any",
     "Tags": [
@@ -20,7 +20,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/latest.zip",
     "DownloadCount": 1919810,
-    "LastUpdate": 1781897917,
-    "Changelog": "- 1.0.0.0: 初始版本发布"
+    "LastUpdate": 1782149415,
+    "Changelog": "- 1.0.1.0: 新增功能: 防击退(本地回拉, 效果稍差), 无视碰撞, 肖像盗取"
   }
 ]
