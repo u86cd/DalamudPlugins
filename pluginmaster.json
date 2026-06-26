@@ -1,9 +1,9 @@
 [
   {
     "Author": "u86cd(粉色母肥)",
-    "Name": "Silly Toolbox",
+    "Name": "SillyToolbox",
     "InternalName": "SillyToolbox",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "傻肥工具箱, 包含一些给自己和亲友用的小功能\n如果有什么想要的功能请直接联系我, 我会尽力加入工具箱",
     "ApplicableVersion": "any",
     "Tags": [
@@ -20,7 +20,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/latest.zip",
     "DownloadCount": 1919810,
-    "LastUpdate": 1782149415,
-    "Changelog": "- 1.0.1.0: 新增功能: 防击退(本地回拉, 效果稍差), 无视碰撞, 肖像盗取\n - 1.0.1.1: 修复了在有\"套用当前的装备\"按钮的界面时, \"套用肖像\"会取代其位置导致无法更改装备的bug"
+    "LastUpdate": 1782477139,
+    "Changelog": "- 更新依赖模块至上游最新版本\n- 肖像盗取模块改为使用游戏原生界面实现\n- 肖像盗取模块新增导出肖像功能, 点击后可直接导出肖像原图至剪贴板(比游戏原生显示的更清晰)"
   }
 ]
